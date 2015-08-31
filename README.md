@@ -1,4 +1,4 @@
-# PROJECTNAMEHERE
+# atom-demo
 
 
 ### Test

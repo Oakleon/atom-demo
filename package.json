@@ -1,7 +1,7 @@
 {
-  "name": "PROJECTNAMEHERE",
+  "name": "atom-demo",
   "version": "0.0.1",
-  "description": "DESCRIPTIONHERE",
+  "description": "demo of the atom editor",
   "main": "build/index.js",
   "scripts": {
     "test": "mocha",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@GITBASEURLHERE.git"
+    "url": "ssh://git@github.com:Oakleon/atom-demo.git"
   },
   "keywords": [
     "node",
     "oakleon"
   ],
-  "author": "AUTHOREMAILHERE",
-  "license": "LICENSEHERE",
+  "author": "chris@oakleon.com",
+  "license": "MIT",
   "bugs": {
-    "url": "https://GITBASEURLHERE/issues"
+    "url": "https://github.com:Oakleon/atom-demo/issues"
   },
-  "homepage": "https://GITBASEURLHERE#readme",
+  "homepage": "https://github.com:Oakleon/atom-demo#readme",
   "dependencies": {},
   "devDependencies": {
     "babel": "^5.8.21",
