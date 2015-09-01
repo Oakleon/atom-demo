@@ -10,7 +10,7 @@ async function fetch() {
 
 function report({cpu, memory, load, disk = "No Disk"}) {
     let cpu_values  = _Lodash.values(cpu);
-    let cpu_average = cpu_values.reduce((a,b) => { return a+b;}) / cpu_values.length;
+    let cpu_average = cpu_values.reduce((a,b) => { return a+b; }) / cpu_values.length;
 
     console.log(`cpu: ${cpu_average}%`);
 
