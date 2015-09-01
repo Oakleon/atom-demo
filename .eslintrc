@@ -2,6 +2,7 @@
     "ecmaFeatures": {
         "modules": true
     },
+    "parser": "babel-eslint",
     "rules": {
         "camelcase": [0],
         "indent": [

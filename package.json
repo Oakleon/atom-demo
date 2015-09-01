@@ -22,9 +22,15 @@
     "url": "https://github.com:Oakleon/atom-demo/issues"
   },
   "homepage": "https://github.com:Oakleon/atom-demo#readme",
-  "dependencies": {},
+  "dependencies": {
+    "isomorphic-fetch": "^2.1.1",
+    "lodash": "^3.10.1"
+  },
   "devDependencies": {
     "babel": "^5.8.21",
-    "chai": "^3.2.0"
+    "babel-eslint": "^4.1.1",
+    "babel-runtime": "^5.8.20",
+    "chai": "^3.2.0",
+    "eslint": "^1.3.1"
   }
 }
