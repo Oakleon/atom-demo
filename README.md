@@ -1,5 +1,11 @@
 # atom-demo
 
+## Run
+
+1. Use atom or babel to transpile src/index.js into the build/index.js
+2. `/bin/bash serve/serve`
+3. `node build/index.js`
+
 ### Atom Setup Tips
 
 #### Install Atom Packages
